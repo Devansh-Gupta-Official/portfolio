@@ -1,3 +1,3 @@
 HTML File for my Resume Website
 
-[Link](www.devanshgupta.tech)
+[Link](https://devanshgupta.tech/)
