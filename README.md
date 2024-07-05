@@ -1,1 +1,3 @@
-HTML File for our Resume Website
+HTML File for my Resume Website
+
+devanshgupta.tech
